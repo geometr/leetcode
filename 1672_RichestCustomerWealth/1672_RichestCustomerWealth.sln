@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1672_RichestCustomerWealth", "1672_RichestCustomerWealth.csproj", "{04CA19E7-FD21-427A-BF1D-78F2E2E93828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1672_RichestCustomerWealthTests", "..\1672_RichestCustomerWealthTests\1672_RichestCustomerWealthTests.csproj", "{EA7DC110-1D22-4BE0-9AE8-D20F8EC09E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CA19E7-FD21-427A-BF1D-78F2E2E93828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CA19E7-FD21-427A-BF1D-78F2E2E93828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CA19E7-FD21-427A-BF1D-78F2E2E93828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CA19E7-FD21-427A-BF1D-78F2E2E93828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7DC110-1D22-4BE0-9AE8-D20F8EC09E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7DC110-1D22-4BE0-9AE8-D20F8EC09E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7DC110-1D22-4BE0-9AE8-D20F8EC09E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7DC110-1D22-4BE0-9AE8-D20F8EC09E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A16E70ED-6780-4E25-9233-25E9C00575C9}
+	EndGlobalSection
+EndGlobal
