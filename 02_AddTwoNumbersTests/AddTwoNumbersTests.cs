@@ -33,7 +33,7 @@ namespace _02_AddTwoNumbers.Tests
         public void SolutionTest3()
         {
             ListNode l1 = Helper.initializeListFromArray(new int[] { 9, 9, 9, 9, 9, 9, 9 });
-            ListNode l2 = Helper.initializeListFromArray(new int[] { 9,9,9,9});
+            ListNode l2 = Helper.initializeListFromArray(new int[] { 9, 9, 9, 9 });
             ListNode correct = Helper.initializeListFromArray(new int[] { 8, 9, 9, 9, 0, 0, 0, 1 });
             checkSolution(l1, l2, correct);
         }
