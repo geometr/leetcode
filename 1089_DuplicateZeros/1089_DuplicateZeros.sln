@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1089_DuplicateZeros", "1089_DuplicateZeros.csproj", "{FBC312A4-D6B1-4892-9393-677C490D060E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1089_DuplicateZerosTests", "..\1089_DuplicateZerosTests\1089_DuplicateZerosTests.csproj", "{9D2FE412-DF57-4DE4-A432-C484B24B1FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC312A4-D6B1-4892-9393-677C490D060E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC312A4-D6B1-4892-9393-677C490D060E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC312A4-D6B1-4892-9393-677C490D060E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC312A4-D6B1-4892-9393-677C490D060E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2FE412-DF57-4DE4-A432-C484B24B1FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2FE412-DF57-4DE4-A432-C484B24B1FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2FE412-DF57-4DE4-A432-C484B24B1FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2FE412-DF57-4DE4-A432-C484B24B1FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFE1B73C-9D65-428E-A78E-355BED99B6BF}
+	EndGlobalSection
+EndGlobal
