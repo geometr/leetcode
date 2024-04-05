@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1346_CheckIfNAndItsDoubleExits", "1346_CheckIfNAndItsDoubleExits.csproj", "{70BC5692-5164-4EEC-9C03-EAC69F79558A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1346_CheckIfNAndItsDoubleExitsTests", "..\1346_CheckIfNAndItsDoubleExitsTests\1346_CheckIfNAndItsDoubleExitsTests.csproj", "{2EAA38E4-2C2F-416A-90E3-24010A82F5DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70BC5692-5164-4EEC-9C03-EAC69F79558A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BC5692-5164-4EEC-9C03-EAC69F79558A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BC5692-5164-4EEC-9C03-EAC69F79558A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BC5692-5164-4EEC-9C03-EAC69F79558A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EAA38E4-2C2F-416A-90E3-24010A82F5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAA38E4-2C2F-416A-90E3-24010A82F5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAA38E4-2C2F-416A-90E3-24010A82F5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAA38E4-2C2F-416A-90E3-24010A82F5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C8D9F1-9892-4AC8-9DF5-0666CD187A96}
+	EndGlobalSection
+EndGlobal
