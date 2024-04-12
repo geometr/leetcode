@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "498_FindDiagonalOrder", "498_FindDiagonalOrder.csproj", "{BF0BD4F9-209C-4110-B0D5-16BC7A3F330A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "498_FindDiagonalOrderTests", "..\498_FindDiagonalOrderTests\498_FindDiagonalOrderTests.csproj", "{80951814-C6A7-4902-BDC3-70DFF4781A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0BD4F9-209C-4110-B0D5-16BC7A3F330A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0BD4F9-209C-4110-B0D5-16BC7A3F330A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0BD4F9-209C-4110-B0D5-16BC7A3F330A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0BD4F9-209C-4110-B0D5-16BC7A3F330A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80951814-C6A7-4902-BDC3-70DFF4781A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80951814-C6A7-4902-BDC3-70DFF4781A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80951814-C6A7-4902-BDC3-70DFF4781A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80951814-C6A7-4902-BDC3-70DFF4781A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CF587DE-5952-4CFD-BF19-61597E4F0D6B}
+	EndGlobalSection
+EndGlobal
